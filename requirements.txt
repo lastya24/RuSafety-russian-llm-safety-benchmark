@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+python-dotenv
+openpyxl
+requests
+langchain
+langchain-openai
+openai
+transformers
+datasets
+torch
